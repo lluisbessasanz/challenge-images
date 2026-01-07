@@ -65,4 +65,4 @@ jobs:
         with:
           context: ${{ matrix.image }}
           push: true
-          tags: pwncollege/challenge-${{ matrix.image }}:latest
+          tags: lluisbessasanz/challenge-${{ matrix.image }}:latest
